@@ -4,8 +4,6 @@
  */
 package testproject;
 
-import java.util.Scanner;
-
 /**
  *
  * @author tabah
@@ -17,11 +15,7 @@ public class TESTPROJECT {
      */
     public static void main(String[] args) {
         System.out.println("Xin chào ");
-        Scanner Sc= new Scanner(System.in);
-        int n=Sc.nextInt();
-        if(n % 2==0){
-            System.out.println(n+" là số chẵn");
-        } else System.out.println(n+" là số lẻ");
+        
     }
     
 }
