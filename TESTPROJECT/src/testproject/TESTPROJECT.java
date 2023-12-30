@@ -15,7 +15,6 @@ public class TESTPROJECT {
      */
     public static void main(String[] args) {
         System.out.println("Xin chào ");
-        System.out.println("Xin chào 1");
     }
     
 }
